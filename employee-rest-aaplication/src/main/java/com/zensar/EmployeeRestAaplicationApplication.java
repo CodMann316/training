@@ -8,6 +8,9 @@ public class EmployeeRestAaplicationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeRestAaplicationApplication.class, args);
+		System.out.println("TESTING");
 	}
+	
+	
 
 }
